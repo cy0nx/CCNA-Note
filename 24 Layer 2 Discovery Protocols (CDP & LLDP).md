@@ -11,27 +11,27 @@
 ![1445-07-18 05_27_54-Day 36 Slides - CDP   LLDP pdf](https://github.com/0xVoLk/CCNA-Note/assets/100092212/a453509b-bf49-4a20-abb4-33179644cef1)
 
 
-● R1# show cdp 
+``` R1# show cdp ```
 
 →shows basic information about CDP (timers, version) 
 
-● R1# show cdp traffic 
+``` R1# show cdp traffic ```
 
 →displays how many CDP messages have been sent and received 
 
-● R1# show cdp interface 
+``` R1# show cdp interface ```
 
 →displays which interfaces CDP is enabled on 
 
-● R1# show cdp neighbors 
+``` R1# show cdp neighbors ```
 
 →lists CDP neighbors and some basic information about each neighbor 
 
-● R1# show cdp neighbors detail 
+``` R1# show cdp neighbors detail ```
 
 →lists each CDP neighbor with more detailed information 
 
-● R1# show cdp entry name 
+``` R1# show cdp entry name ```
 
 →displays the same info as above, but for the specified neighbor only
 
@@ -50,27 +50,27 @@ LLDP is an industry standard protocol (IEEE 802.1AB)
 ![1445-07-18 05_30_32-Day 36 Slides - CDP   LLDP pdf](https://github.com/0xVoLk/CCNA-Note/assets/100092212/f6e72ce1-0b16-465b-b9a6-5bd093729599)
 
 
-● R1# show lldp 
+``` R1# show lldp ```
 
 →shows basic information about LLDP (timers, version) 
 
-● R1# show lldp traffic 
+``` R1# show lldp traffic ```
 
 →displays how many LLDP messages have been sent and received 
 
-● R1# show lldp interface 
+``` R1# show lldp interface ```
 
 →displays which interfaces LLDP tx/rx is enabled on 
 
-● R1# show lldp neighbors 
+``` R1# show lldp neighbors ```
 
 →lists LLDP neighbors and some basic information about each neighbor 
 
-● R1# show lldp neighbors detail 
+``` R1# show lldp neighbors detail ```
 
 →lists each LLDP neighbor with more detailed information 
 
-● R1# show lldp entry name 
+``` R1# show lldp entry name ```
 
 →displays the same info as above, but for the specified neighbor only
 
