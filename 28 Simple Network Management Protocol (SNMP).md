@@ -18,4 +18,5 @@
 ● Main SNMP versions: SNMPv1, SNMPv2c, SNMPv3 
 
 ● SNMP messages:
+
 ![1445-07-22 20_18_37-Day 40 Slides - SNMP pdf](https://github.com/0xVoLk/CCNA-Note/assets/100092212/b6677a21-fdf7-47d7-88e1-3dbdf30461eb)
