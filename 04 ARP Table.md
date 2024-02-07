@@ -1,5 +1,5 @@
 
-**show arp**
+```**show arp**```
 ##Command to show the ARP table on a Cisco device
 
 Use arp -a to view the ARP table (Windows, macOS, Linux)
