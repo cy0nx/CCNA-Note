@@ -1,5 +1,6 @@
 In Cisco IOS, you can view the time with the show clock command
 
+![1445-07-19 12_45_48-Day 37 Slides - NTP pdf](https://github.com/0xVoLk/CCNA-Note/assets/100092212/20035913-a9c7-4875-9ee5-2c72ac07fc9a)
 ![1445-07-19 12_46_33-Day 37 Slides - NTP pdf](https://github.com/0xVoLk/CCNA-Note/assets/100092212/e8567b46-f10c-44a5-a07d-100cda91c971)
 
 
