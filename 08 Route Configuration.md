@@ -12,8 +12,3 @@ show ip route
 
 **ip route 0.0.0.0 0.0.0.0** next-hop
 ##Configure a default route, specifying the next-hop IP
-![[1 1.png]]
-
-![[2 1.png]]
-
-![[3 1.png]]
