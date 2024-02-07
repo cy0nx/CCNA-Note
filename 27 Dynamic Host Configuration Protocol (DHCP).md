@@ -1,9 +1,9 @@
 ● DHCP is used to allow hosts to automatically/dynamically learn various aspects of their network configuration, such as IP address, subnet mask, default gateway, DNS server, etc, without manual/static configuration.
 
 DHCP messages
-![[1445-07-21 10_09_08-Day 39 Slides - DHCP.pdf.png]]
 
-![[1445-07-21 10_09_55-Day 39 Slides - DHCP.pdf.png]]
+![1445-07-21 10_09_08-Day 39 Slides - DHCP pdf](https://github.com/0xVoLk/CCNA-Note/assets/100092212/0c60b0f7-327b-4388-bfa0-5d814da5057f)
+
 
 
 DHCP Relay
