@@ -1,9 +1,5 @@
 
-![1 1](https://github.com/0xVoLk/CCNA-Note/assets/100092212/14add916-eefc-4a54-baf2-6935251725ab)
 
-![2 1](https://github.com/0xVoLk/CCNA-Note/assets/100092212/b5df2999-5502-496a-890d-77d86d5e3f8f)
-
-![3 1](https://github.com/0xVoLk/CCNA-Note/assets/100092212/7ca26e09-d131-44c7-bbf3-a84646e5b136)
 
 ![1 1](https://github.com/0xVoLk/CCNA-Note/assets/100092212/9e31ec88-78c3-4974-a178-96146d2fe484)
 
