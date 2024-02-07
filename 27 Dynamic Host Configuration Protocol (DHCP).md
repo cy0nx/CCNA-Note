@@ -32,28 +32,27 @@ C:\Users> ipconfig /renew
 
 
 DHCP server:
+```		
+R1(config)# ip dhcp excluded-address low-address high-address 
 		
- 	 R1(config)# ip dhcp excluded-address low-address high-address 
+R1(config)# ip dhcp pool pool-name 
 		
-	  R1(config)# ip dhcp pool pool-name 
+R1(dhcp-config)# network ip-address {/prefix-length | subnet-mask} 
 		
- 	 R1(dhcp-config)# network ip-address {/prefix-length | subnet-mask} 
+R1(dhcp-config)# dns-server ip-address 
 		
-	  R1(dhcp-config)# dns-server ip-address 
+R1(dhcp-config)# domain-name domain-name 
 		
-	  R1(dhcp-config)# domain-name domain-name 
+R1(dhcp-config)# default-router ip-address 
 		
-  	R1(dhcp-config)# default-router ip-address 
-		
- 	 R1(dhcp-config)# lease {days hours minutes | infinite} R1# show ip dhcp binding
-  
+R1(dhcp-config)# lease {days hours minutes | infinite} R1# show ip dhcp binding
+```  
 
 DHCP relay agent:
 
-		
-	  R1(config-if)# ip helper-address ip-address
+```R1(config-if)# ip helper-address ip-address```
 
 
 DHCP client:
 
-	R1(config-if)# ip address dhcp
+```R1(config-if)# ip address dhcp```
