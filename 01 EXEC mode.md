@@ -1,12 +1,12 @@
-Router> = user EXEC mode
+```Router> = user EXEC mode```
 
-Router# = privileged EXEC mode
+```Router# = privileged EXEC mode```
 
-Router(config)# = global configuration mode
+```Router(config)# = global configuration mode```
 
-Router>enable
+```Router>enable```
 ##used to enter privileged EXEC mode
 
 
-Router#configure terminal
+```Router#configure terminal```
 ##used to enter global configuration mode
