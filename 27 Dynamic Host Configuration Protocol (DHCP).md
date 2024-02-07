@@ -26,9 +26,9 @@ When the router is not a DHCP server, there are DHCP clients in the router’s c
 
 
 
-C:\Users> ipconfig /release 
+```C:\Users> ipconfig /release```
 
-C:\Users> ipconfig /renew 
+```C:\Users> ipconfig /renew```
 
 
 DHCP server:
