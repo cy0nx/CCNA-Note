@@ -2,13 +2,13 @@ Serial Interfaces:
 
 ● The default encapsulation is HDLC. 
 
-● You can configure PPP encapsulation with this command: R1(config-if)# encapsulation ppp 
+● You can configure PPP encapsulation with this command: ```R1(config-if)# encapsulation ppp``` 
 
 ● One side is DCE, one side is DTE. 
 
-● Identify which side is DCE/DTE: R1# show controllers interface-id 
+● Identify which side is DCE/DTE: ```R1# show controllers interface-id``` 
 
-● You must configure the clock rate on the DCE side: R1(config-if)# clock rate bits-per-second
+● You must configure the clock rate on the DCE side: ```R1(config-if)# clock rate bits-per-second```
 
 ![1445-07-06 11_35_01-Day 28 Slides - OSPF (Part 3) pdf](https://github.com/0xVoLk/CCNA-Note/assets/100092212/0ff07c41-6d62-4da1-9acc-2b7b2a61ae5c)
 
