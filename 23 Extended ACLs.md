@@ -3,14 +3,14 @@ Numbered ACLs use the following ranges: 100 – 199, 2000 – 2699
 ***R1(config)# access-list number [permit | deny] protocol src-ip dest-ip*** 
 
 
-***R1(config)# ip access-list extended {name | number} 
+***R1(config)# ip access-list extended {name | number}***
 
-R1(config-ext-nacl)# [seq-num] [permit | deny] protocol src-ip dest-ip***
+***R1(config-ext-nacl)# [seq-num] [permit | deny] protocol src-ip dest-ip***
 
 ![1445-07-14 04_24_08-Day 35 Slides - Extended ACLs pdf](https://github.com/0xVoLk/CCNA-Note/assets/100092212/6c829b90-300e-468f-84cb-aa8ee20381df)
 
 
-**R1(config-ext-nacl)#deny tcp src-ip eq src-port-num dest-ip eq dst-port-num****
+**R1(config-ext-nacl)#deny tcp src-ip eq src-port-num dest-ip eq dst-port-num**
 
 ![1445-07-14 04_28_31-Day 35 Slides - Extended ACLs pdf](https://github.com/0xVoLk/CCNA-Note/assets/100092212/e8156011-ab35-4b2f-8e19-4b18c2b50cfd)
 
