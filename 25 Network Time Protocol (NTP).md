@@ -27,13 +27,13 @@ Configuring the Time Zone
 
 
 
-**R1# show clock 
+**R1# show clock**
 
-**R1# show clock detail **
+**R1# show clock detail**
 
-**R1# clock set hh:mm:ss {day|month} {month|day} year **
+**R1# clock set hh:mm:ss {day|month} {month|day} year**
 
-**R1# show calendar **
+**R1# show calendar**
 
 **R1# calendar set hh:mm:ss {day|month} {month|day} year**
 
