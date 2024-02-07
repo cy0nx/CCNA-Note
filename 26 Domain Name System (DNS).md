@@ -15,7 +15,7 @@ Standard DNS queries/responses typically use UDP. TCP is used for DNS messages g
 
 
 Windows: 
-		
+```		
   C:\Users>ipconfig /all
 		
   C:\Users>nslookup name
@@ -25,10 +25,10 @@ Windows:
   C:\Users>ipconfig /flushdns
 		
   C:\Users>ping ip-address -n number
-
+```
 
 Cisco IOS:
-		
+```		
   R1(config)#ip dns server
 		
   R1(config)#ip host hostname ip-address
@@ -40,3 +40,4 @@ Cisco IOS:
   R1(config)#ip domain name domain-name
 		
   R1#show hosts
+```
