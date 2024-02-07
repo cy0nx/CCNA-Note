@@ -26,17 +26,17 @@ Configuring the Time Zone
 ![1445-07-19 12_52_02-Day 37 Slides - NTP pdf](https://github.com/0xVoLk/CCNA-Note/assets/100092212/03c77fdc-c2a5-40cb-9afa-e82e0cfd6323)
 
 
+```
+R1# show clock
 
-**R1# show clock**
+R1# show clock detail
 
-**R1# show clock detail**
+R1# clock set hh:mm:ss {day|month} {month|day} year
 
-**R1# clock set hh:mm:ss {day|month} {month|day} year**
+R1# show calendar
 
-**R1# show calendar**
-
-**R1# calendar set hh:mm:ss {day|month} {month|day} year**
-
+R1# calendar set hh:mm:ss {day|month} {month|day} year
+```
 
 ● NTP (Network Time Protocol) allows automatic syncing of time over a network
 
@@ -76,7 +76,7 @@ Configuring NTP symmetric active mode
 
 
 ● To configure NTP authentication: 
-
+```
 ntp authenticate 
 
 ntp authentication-key key-number md5 key 
@@ -84,12 +84,12 @@ ntp authentication-key key-number md5 key
 ntp trusted-key key-number 
 
 ntp server ip-address key key-number
-
+```
 ![1445-07-19 13_01_33-Day 37 Slides - NTP pdf](https://github.com/0xVoLk/CCNA-Note/assets/100092212/3cd91399-8c31-4bd9-b633-5a5b38780933)
 
 
 !Basic Configuration Commands
-
+```
 R1(config)# ntp server ip-address [prefer] 
 
 R1(config)# ntp peer ip-address 
@@ -99,17 +99,17 @@ R1(config)# ntp update-calendar
 R1(config)# ntp master [stratum] 
 
 R1(config)# ntp source interface 
-
+```
 
 !Basic Show Commands 
-
+```
 R1# show ntp associations 
 
 R1# show ntp status 
-
+```
 
 !Basic Authentication Commands 
-
+```
 R1(config)# ntp authenticate 
 
 R1(config)# ntp authentication-key key-number md5 key 
@@ -119,3 +119,4 @@ R1(config)# ntp trusted-key key-number
 R1(config)# ntp server ip-address key key-number 
 
 R1(config)# ntp peer ip-address key key-number
+```
