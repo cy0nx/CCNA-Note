@@ -1,3 +1,5 @@
+Private IPv4 addresses are defined in RFC [1918].
+
 Private IPv4 Addresses:
 
 ![1445-07-27 18_01_53-Day 44 Slides - NAT (Part 1) pdf](https://github.com/0xVoLk/CCNA-Note/assets/100092212/65bcbecc-aa27-43f5-a8b1-46b76a4a3ea6)
