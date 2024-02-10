@@ -1,10 +1,8 @@
 
 ![1445-05-29 07_28_39-Lecture_ IPv4 Addressing (Part 2) _ David Bombal 1](https://github.com/0xVoLk/CCNA-Note/assets/100092212/4dbcfefd-cccb-403b-ad50-eb7c6cb1e013)
 
-```R1>en```
-
-```R1#show ip interface brief```
-
+```R1>en```  
+```R1#show ip interface brief```  
 ```R1#conf t```
 
 ```
