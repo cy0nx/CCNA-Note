@@ -16,4 +16,5 @@
 
 
 ● Configure all interfaces as passive interfaces by default: ```R1(config-router)# passive-interface default```  
+
 ![1445-07-05 16_33_43-Day 27 Slides - OSPF (Part 2) pdf](https://github.com/0xVoLk/CCNA-Note/assets/100092212/b0315195-4220-4596-9131-3ea79ae4636e)
