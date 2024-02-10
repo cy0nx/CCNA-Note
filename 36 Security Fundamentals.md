@@ -58,7 +58,7 @@ The principles of the CIA Triad form the foundation of security:
 
 ● Social engineering attacks  
 →attacks that use psychological manipulation to target people and make them reveal info or perform an action  
-- Phishing typically involves fraudulent emails that appear to come from a legitimate business
+- Phishing typically involves fraudulent emails that appear to come from a legitimate business  
   → spear phishing is a more targeted form of phishing, ie. aimed at employees of a certain company.  
   → whaling is phishing targeted at high-profile individuals, ie. a company president.
 - Vishing (voice phishing) is phishing performed over the phone.
