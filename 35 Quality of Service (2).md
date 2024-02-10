@@ -4,7 +4,7 @@
 
 Layer 2 header field can be used for QoS markings:
 
-The PCP (Priority Code Point) field of the 802.1Q tag (in the Ethernet header) can be used to identify high/low priority traffic.  
+The PCP (Priority Code Point) field of the 802.1Q tag (in the Ethernet header) can be used to identify high/low priority traffic.<br>
 →Only when there is a dot1q tag!
 
 
