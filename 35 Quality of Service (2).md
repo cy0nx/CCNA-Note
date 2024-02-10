@@ -19,7 +19,7 @@ DSCP (formerly IPP)
 AF:  
 ![1445-07-29 18_50_38-Day 47 Slides - QoS (Part 2) pdf](https://github.com/0xVoLk/CCNA-Note/assets/100092212/f0881ec3-1507-42f1-972c-07ec2a71bd6c)
 
-CS:
+CS:  
 ![1445-07-29 18_51_56-Day 47 Slides - QoS (Part 2) pdf](https://github.com/0xVoLk/CCNA-Note/assets/100092212/2d54e28c-88e4-4bd1-9cd5-1144a89660c2)
 
 ● The RFC 4594 offers many specific recommendations, but here are a few key ones:  
