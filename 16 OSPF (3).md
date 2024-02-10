@@ -26,7 +26,7 @@ OSPF Neighbor Requirements:
 OSPF LSA Types:
 
 ● Type 1 (Router LSA)   
--Every OSPF router generates this type of LSA.
+-Every OSPF router generates this type of LSA.  
 -It identifies the router using its router ID.   
 -It also lists networks attached to the router’s OSPF-activated interfaces. 
 
