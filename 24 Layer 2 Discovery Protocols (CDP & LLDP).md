@@ -1,7 +1,6 @@
-● CDP is a Cisco proprietary protocol. 
+###  CDP  
 
-● LLDP is an industry standard protocol (IEEE 802.1AB).
-
+● CDP is a Cisco proprietary protocol.   
 ● CDP messages are periodically sent to multicast MAC address 0100.0CCC.CCCC.  
 ● By default, CDP messages are sent once every 60 seconds.  
 ● By default, the CDP holdtime is 180 seconds. If a message isn’t received from a neighbor for 180 seconds, the neighbor is removed from the CDP neighbor table.  
@@ -29,6 +28,7 @@
 ![1445-07-18 05_29_29-Day 36 Slides - CDP   LLDP pdf](https://github.com/0xVoLk/CCNA-Note/assets/100092212/568c00a1-01ee-4152-b5c6-98362d54ba39)
 
 
+###  LLDP
 
 LLDP is an industry standard protocol (IEEE 802.1AB)  
 ● LLDP messages are periodically sent to multicast MAC address 0180.C200.000E.  
