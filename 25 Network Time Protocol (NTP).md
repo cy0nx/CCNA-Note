@@ -41,8 +41,7 @@ NTP Hierarchy
 
 
 'peer' is called ‘symmetric active’ mode.   
-Cisco devices can operate in three NTP modes: 
-
+Cisco devices can operate in three NTP modes:   
 ● Server mode   
 ● Client mode   
 ● Symmetric active mode
