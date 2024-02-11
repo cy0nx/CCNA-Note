@@ -2,7 +2,7 @@
 
 → NBAR (Network Based Application Recognition) performs a deep packet inspection, looking beyond the Layer 3 and Layer 4 information up to Layer 7 to identify the specific kind of traffic.
 
-Layer 2 header field can be used for QoS markings:  
+Layer 2 header field can be used for QoS markings:    
 The PCP (Priority Code Point) field of the 802.1Q tag (in the Ethernet header) can be used to identify high/low priority traffic.  
 →Only when there is a dot1q tag!  
 ![1445-07-29 18_45_13-Day 47 Slides - QoS (Part 2) pdf](https://github.com/0xVoLk/CCNA-Note/assets/100092212/dbc4cc67-133b-4359-a4f6-7d8a461001ce)
