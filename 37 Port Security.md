@@ -25,7 +25,7 @@ Enabling Port Security:
 ![1445-08-01 20_32_41-Day 49 Slides - Port Security pdf](https://github.com/0xVoLk/CCNA-Note/assets/100092212/85d6f666-a7c1-4eaf-be4b-a65002d60251)  
 <br>
 
-Re-enabling an interface (manually):  
+Re-enabling an interface (manually):
 1) Disconnect the unauthorized device  
 2) shutdown and then no shutdown the interface
 
