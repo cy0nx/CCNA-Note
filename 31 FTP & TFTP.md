@@ -4,11 +4,11 @@ protocols used to transfer files over a network.
 ● They both use a client-server model.  
   → Clients can use FTP or TFTP to copy files from a server.  
   → Clients can use FTP or TFTP to copy files to a server.
-  
+    
 ● TFTP was first standardized in 1981.  
 ● Named ‘Trivial’ because it is simple and has only basic features compared to FTP.  
   → Only allows a client to copy a file to or from a server.
-  
+    
 ● Every TFTP data message is acknowledged.  
 → If the client is transferring a file to the server, the server will send Ack messages.  
 → If the server is transferring a file to the client, the client will send Ack messages.  
