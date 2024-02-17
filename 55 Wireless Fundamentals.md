@@ -118,5 +118,55 @@ problem compared to the 5 GHz band.
 <br>
 
 
-###  Service Sets
+##  Service Sets  
+
+● 802.11 defines different kinds of service sets which are groups of wireless network devices.
+
+● There are three main types:  
+→ Independent  
+→ Infrastructure  
+→ Mesh
+
+● All devices in a **service set** share the same **SSID (service set identifier)**.  
+● The SSID is a human-readable name which identifies the service set.  
+● The SSID does **not** have to be unique.  
+<br>
+
+
+###  Service Sets: IBSS  
+
+● An **IBSS (Independent Basic Service Set)** is a wireless network in which two or more wireless devices connect directly without using an **AP (Access Point)**.  
+● Also called an **ad hoc** network.  
+● Can be used for file transfer (ie. AirDrop).  
+● Not scalable beyond a few devices.  
+![1445-08-07 21_14_11-Day 55 Slides - Wireless Fundamentals pdf](https://github.com/0xVoLk/CCNA-Note/assets/100092212/8e35daa6-a742-4458-9b5d-a50d0f398dd0)  
+<br>
+
+
+● Wireless LANs are defined in 802.11.  
+● Operate in half duplex using CSMA/CA  
+● Wireless signals can be affected by **absorption, reflection, refraction, diffraction, and scattering.**  
+● Various aspects of waves can be measured, such as amplitude, frequency, and period.  
+● Frequency is measured in **hertz (Hz).**  
+● Wireless LANs use two frequency ranges: the **2.4 GHz** band and **5 GHz** band.  
+→ Wi-Fi 6 (802.11ax) can use the **6 GHz** range too.  
+● Bands are divided into channels.  
+● 5 GHz band consists of non-overlapping channels.  
+● 2.4 GHz band channels overlap. To avoid overlapping, use channels 1, 6, and 11 (in North America).  
+● 802.11 standards (802.11b, 802.11a, etc) and their frequencies/theoretical max data rates.  
+
+● Service sets are groups of wireless devices. Three types:  
+→ Independent (**IBSS**, also called **ad hoc**)  
+→ Infrastructure (**BSS, ESS**)  
+ *passing between APs in an ESS is called **roaming**.  
+→ Mesh (**MBSS**)  
+
+● Service sets are identified by an **SSID** (non-unique, human-readable) and **BSSID** (unique, MAC address of AP).  
+● The area around an AP where its signal is usable is called a **BSA**.  
+● The upstream wired network is called the **DS**.  
+● When multiple WLANs are used, each is mapped to a separate VLAN on the wired network.  
+● APs can also operate as a **repeater**, **workgroup bridge**, or **outdoor bridge**.  
+
+
+
 
