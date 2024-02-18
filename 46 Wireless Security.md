@@ -44,6 +44,8 @@
 -AES counter mode for encryption  
 -GMAC for MIC  
 -WPA3  
+
+● A **MIC (Message Integrity Check)** is added to messages to help protect their integrity.  
 <br>
 
 
