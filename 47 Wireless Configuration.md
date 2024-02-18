@@ -21,4 +21,4 @@
 
 ##  WLC Ports/Interfaces  
 
-![Uploading 1445-08-09 02_37_38-Day 58 Slides - Wireless Configuration.pdf.png…]()
+![1445-08-09 02_37_38-Day 58 Slides - Wireless Configuration pdf](https://github.com/0xVoLk/CCNA-Note/assets/100092212/ba5d045b-0f70-46eb-bd70-6638d3a345ff)
