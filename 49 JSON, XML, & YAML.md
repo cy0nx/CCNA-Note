@@ -39,9 +39,6 @@
 →not key-value pairs.  
 →the values don’t have to be the same data type.  
 ![1445-08-10 03_46_22-Day 60 Slides - JSON, XML, YAML pdf](https://github.com/0xVoLk/CCNA-Note/assets/100092212/88d64869-4f15-4a46-87cc-8e41da49a678)  
-<br>
-
-
 ![1445-08-10 03_46_54-Day 60 Slides - JSON, XML, YAML pdf](https://github.com/0xVoLk/CCNA-Note/assets/100092212/ca57eb01-1e32-4b0b-81f4-f3aa064b606c)  
 <br>  
 
