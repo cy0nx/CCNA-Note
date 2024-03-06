@@ -1,4 +1,4 @@
-● SNMP is an industry-standard framework and protocol that was originally released in 1988.
+● SNMP is an industry-standard framework and protocol that was originally released in 1988.  
 ● SNMP helps manage devices over a network.  
 ● Managed Devices are the devices being managed using SNMP, such as network devices (routers, switches, firewalls)
 
